@@ -1,16 +1,23 @@
-### Hi there, I'm Mario Llesta! 👋
+# Hi there, I'm Mario Llesta! 👋
+### Telecommunications Engineer
 
-<!--
-**mariollesta/mariollesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am an engineer in telecommunication technologies from the University Carlos III of Madrid since 2022.
 
-Here are some ideas to get you started:
+💻 Currently working in a cybersecurity company as Linux System Administrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❗ I am very interested in Data Science and everything related to this field. In addition, I am quite attracted to software development (especially video games) and automation (DevOps), and cybersecurity.
+
+## Technologies:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![CSharp](https://img.shields.io/badge/CSharp-A179DC?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+
+
+## Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Llesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://:www.linkedin.com/in/mario-llesta)
