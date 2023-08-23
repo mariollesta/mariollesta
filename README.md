@@ -7,7 +7,7 @@
 
 💻 Currently working in a cybersecurity company as Linux System Administrator.
 
-❗ I am very interested in Data Science and everything related to this field. In addition, I am quite attracted to software development (especially video games) and automation (DevOps), and cybersecurity.
+❗ I am very interested in data and new technologies. In addition, I am quite attracted to software development (especially video games) and automation (DevOps), and cybersecurity.
 
 ## Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
