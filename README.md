@@ -12,7 +12,6 @@
 ## Technologies:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![PySpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=101010)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)
 ![PyGame](https://img.shields.io/badge/PyGame-85FF85?style=for-the-badge&logo=pygame&logoColor=white&labelColor=101010)
 
