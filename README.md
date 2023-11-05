@@ -1,7 +1,7 @@
 # My name is Mario Llesta 🎩
 ### Telecommunications Engineer
 
-![https://github.com/mariollesta](https://raw.githubusercontent.com/mariollesta/mariollesta/master/github_profile.png)
+![https://github.com/mariollesta](https://raw.githubusercontent.com/mariollesta/mariollesta/master/profile.png)
 
 🎓 I am telecommunications engineer from the University Carlos III of Madrid since 2022
 
