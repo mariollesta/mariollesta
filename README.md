@@ -3,7 +3,7 @@
 
 ![https://github.com/mariollesta](https://raw.githubusercontent.com/mariollesta/mariollesta/master/profile.png)
 
-🎓 I am telecommunications engineer from the University Carlos III of Madrid since 2022
+🎓 Telecommunications Engineer from the University Carlos III of Madrid since 2022
 
 💻 Currently working in a cybersecurity company as Linux System Administrator
 
