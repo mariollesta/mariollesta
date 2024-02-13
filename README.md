@@ -4,24 +4,23 @@
 
 ![https://github.com/mariollesta](https://raw.githubusercontent.com/mariollesta/mariollesta/master/profile.png)
 
-🎓 Telecommunications Engineer from the University Carlos III of Madrid since 2022
 
-💻 Currently working in a cybersecurity company as Linux System Administrator
+## About me
 
-❗ Passionate about data, new technologies and software development
+I am a telecommunications Engineer from the ![University Carlos III of Madrid](https://www.uc3m.es/Inicio) since 2022.
 
-## Technologies:
+I have worked in ![NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (from February to June 2022) as a Student, developing multi-agent systems based on artificial intelligence with Java & SpringBoot. I am currently working in a cybersecurity company, ![Open Cloud Factory](https://www.opencloudfactory.com/) as Linux System Administrator since September 2022.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)
-![PyGame](https://img.shields.io/badge/PyGame-85FF85?style=for-the-badge&logo=pygame&logoColor=white&labelColor=101010)
+Passionate about software development, DevOps methodology and the world of data.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
+## My Tech Stack:
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,python,fastapi,java,kotlin,mysql,mongodb,linux,docker,ansible,kubernetes&theme=light"/>
+  </a>
+</p>
 
-## Contact:
+## Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Llesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-llesta)
