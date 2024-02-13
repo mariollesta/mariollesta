@@ -7,7 +7,7 @@
 
 ## About me
 
-I am a telecommunications Engineer from the ![University Carlos III of Madrid](https://www.uc3m.es/Inicio) since 2022.
+I am a Telecommunications Engineer from the ![University Carlos III of Madrid](https://www.uc3m.es/Inicio) since 2022.
 
 I have worked in ![NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (from February to June 2022) as a Student, developing multi-agent systems based on artificial intelligence with Java & SpringBoot. I am currently working in a cybersecurity company, ![Open Cloud Factory](https://www.opencloudfactory.com/) as Linux System Administrator since September 2022.
 
