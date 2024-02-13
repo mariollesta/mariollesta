@@ -13,7 +13,7 @@ I have worked in ![NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (f
 
 Passionate about software development, DevOps methodology and the world of data.
 
-
+##
 ## My Tech Stack:
 
 <p align="center">
@@ -22,5 +22,6 @@ Passionate about software development, DevOps methodology and the world of data.
   </a>
 </p>
 
+##
 ## Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Llesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-llesta)
