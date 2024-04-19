@@ -18,7 +18,7 @@ Passionate about software development, DevOps methodology and the world of data.
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,c,java,kotlin,mysql,mongodb,linux,docker,ansible,kubernetes&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,c,java,kotlin,mysql,mongodb,linux,ansible,docker,kubernetes&theme=light"/>
   </a>
 </p>
 
