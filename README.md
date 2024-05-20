@@ -2,9 +2,6 @@
 <p align="center"> </p>
 
 
-![https://github.com/mariollesta](https://raw.githubusercontent.com/mariollesta/mariollesta/master/profile.png)
-
-
 ## About me
 
 I am a Telecommunications Engineer from the [University Carlos III of Madrid](https://www.uc3m.es/Inicio) since 2022.
