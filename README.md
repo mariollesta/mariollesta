@@ -11,7 +11,7 @@ I have worked in [NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (fr
 Passionate about software development, DevOps methodology and the world of data.
 
 ##
-## My Tech Stack:
+## Tech Stack:
 
 <p align="center">
   <a href="#">
