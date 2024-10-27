@@ -15,7 +15,7 @@ Passionate about software development and DevOps engineering.
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,java,postgresql,linux,ansible,docker&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,tailwind,java,postgresql,linux,ansible,docker&theme=light"/>
   </a>
 </p>
 
