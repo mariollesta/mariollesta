@@ -8,7 +8,7 @@ I am a Telecommunications Engineer from the [University Carlos III of Madrid](ht
 
 I have worked in [NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (from February to June 2022) as a Student, developing multi-agent systems based on artificial intelligence with Java & SpringBoot. I am currently working in a cybersecurity company, [Open Cloud Factory](https://www.opencloudfactory.com/) as Linux System Administrator since September 2022.
 
-Passionate about software development, DevOps methodology and the world of data.
+Passionate about software development and DevOps engineering.
 
 ##
 ## Tech Stack:
