@@ -15,7 +15,7 @@ I am passionate about software development and DevOps, so my goal is to continue
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,tailwind,postgresql,linux,ansible,docker&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,tailwind,postgresql,linux,ansible,jenkins&theme=light"/>
   </a>
 </p>
 
