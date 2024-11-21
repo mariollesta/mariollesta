@@ -4,11 +4,11 @@
 
 ## About me
 
-I am a Telecommunications Engineer from the [University Carlos III of Madrid](https://www.uc3m.es/Inicio) since 2022.
+Hi! My name is Mario and I have a degree in Telecommunication Technologies Engineering at the University Carlos III of Madrid since 2022.
 
-I have worked in [NTT DATA Europe & LATAM](https://es.nttdata.com/) 5 months (from February to June 2022) as a Student, developing multi-agent systems based on artificial intelligence with Java & SpringBoot. I am currently working in a cybersecurity company, [Open Cloud Factory](https://www.opencloudfactory.com/) as Linux System Administrator since September 2022.
+I am working at OpenCloudFactory where I am gaining experience in Linux environment administration and QA testing automation.
 
-Passionate about software development and DevOps engineering.
+I am passionate about software development and DevOps, so my goal is to continue to grow in the aforementioned fields facing new challenges that contribute to a sustainable improvement of the world we live in.
 
 ##
 ## Tech Stack:
