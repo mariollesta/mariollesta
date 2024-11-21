@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi! My name is Mario and I have a degree in Telecommunication Technologies Engineering at the University Carlos III of Madrid since 2022.
+Hi! My name is Mario and I have a bachelor's degree in Telecommunication Technologies Engineering at the University Carlos III of Madrid since 2022.
 
 I am working at OpenCloudFactory where I am gaining experience in Linux environment administration and QA testing automation.
 
