@@ -6,7 +6,7 @@
 
 Hi! My name is Mario and I have a bachelor's degree in Telecommunication Technologies Engineering at the University Carlos III of Madrid since 2022.
 
-I am working at OpenCloudFactory where I am gaining experience in Linux environment administration and QA testing automation.
+I am working at Cipherbit where I am gaining experience in QA testing automation and Linux environments administration.
 
 I am passionate about software development and DevOps, so my goal is to continue to grow in the aforementioned fields facing new challenges that contribute to a sustainable improvement of the world we live in.
 
