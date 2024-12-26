@@ -8,7 +8,6 @@ Hi! My name is Mario and I have a bachelor's degree in Telecommunication Technol
 
 Currently working at Cipherbit - Grupo Oesia where I am gaining experience in QA testing automation and Linux systems.
 
-I am passionate about software development, so my goal is to continue to grow and facing new challenges.
 
 ##
 ## Tech Stack:
