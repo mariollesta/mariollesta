@@ -4,9 +4,13 @@
 
 ## About me
 
-Hi! My name is Mario and I have a bachelor's degree in Telecommunication Technologies Engineering at the University Carlos III of Madrid since 2022.
+Hi! I'm Mario, a QA Engineer focused on automation testing.
 
-Currently working at Cipherbit - Grupo Oesia where I am gaining experience in QA testing automation and Linux systems.
+I have a Telecommunications Engineering degree from Universidad Carlos III de Madrid (2022).
+
+Currently, I'm working at Knowmad Mood as a QA Engineer, ensuring software quality through automated testing.
+
+I also develop open-source web applications here! 
 
 
 ##
