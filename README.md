@@ -4,9 +4,7 @@
 
 ## About me
 
-Hi! I'm Mario.
-
-I have a Telecommunications Engineering degree from Universidad Carlos III de Madrid (2022).
+I'm a Telecommunications Engineer from Universidad Carlos III de Madrid.
 
 Currently, I'm working at Knowmad Mood as a QA Engineer, ensuring software quality through automated testing.
 
