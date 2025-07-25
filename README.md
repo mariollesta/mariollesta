@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi! I'm Mario, a QA Engineer focused on automation testing.
+Hi! I'm Mario.
 
 I have a Telecommunications Engineering degree from Universidad Carlos III de Madrid (2022).
 
