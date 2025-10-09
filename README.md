@@ -27,6 +27,4 @@ I also develop open-source web applications here!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010)
 
-##
-## Find me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Llesta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-llesta)
+
