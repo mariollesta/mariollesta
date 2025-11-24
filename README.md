@@ -17,4 +17,4 @@ I also develop open-source web applications here!
 
 [![Backend](https://skillicons.dev/icons?i=python,fastapi)](https://skillicons.dev)
 
-[![DevOps](https://skillicons.dev/icons?i=jenkins,linux)](https://skillicons.dev))
+[![DevOps](https://skillicons.dev/icons?i=jenkins,linux)](https://skillicons.dev)
