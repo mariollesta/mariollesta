@@ -11,7 +11,6 @@ Currently, I'm working at knowmad mood as a QA Engineer, ensuring software quali
 I also develop open-source web applications here! 
 
 
-##
 ## Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
