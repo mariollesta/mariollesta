@@ -6,7 +6,7 @@
 
 I'm a Telecommunications Engineer from Universidad Carlos III de Madrid.
 
-Currently, I'm working at Knowmad Mood as a QA Engineer, ensuring software quality through automated testing.
+Currently, I'm working at knowmad mood as a QA Engineer, ensuring software quality through automated testing.
 
 I also develop open-source web applications here! 
 
