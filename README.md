@@ -1,8 +1,7 @@
-<h1 align="center">I am Mario Llesta </h1>
-<p align="center"> </p>
+<h3 align="left">Mario Llesta </h3>
 
 
-## About me
+#### About me
 
 I'm a Telecommunications Engineer from Universidad Carlos III de Madrid.
 
@@ -11,7 +10,7 @@ Currently, I'm working at knowmad mood as a QA Engineer, ensuring software quali
 I also develop open-source web applications here! 
 
 
-## Tech Stack:
+#### Tech Stack:
 
 [![Frontend](https://skillicons.dev/icons?i=ts,react,astro,tailwind)](https://skillicons.dev)
 
